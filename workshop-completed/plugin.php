@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name: Workshop - Final
  * Plugin URI:  https://javascriptforwp.com/wcphx-2019
- * Description: COMPLETED files for workshop.
+ * Description: Completed files for workshop.
  * Version:     1.0.0
  * Author:      Zac Gordon
  * Author URI:  https://twitter.com/zgordon
