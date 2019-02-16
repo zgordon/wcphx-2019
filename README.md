@@ -5,8 +5,8 @@ Example files for WordCamp Phoenix 2019 Custom Block Development Workshop with Z
 ## Instructions
 
 1. Download the example files
-2. Copy the all of the workshop-XX-starter folders into /wp-content/plugins
-3. Make sure to only install one plugin at a time
+2. Copy the all of the `workshop-XX-starter` folders into `/wp-content/plugins/`
+3. Make sure to only activate one plugin at a time!
 
 ## Slides
 
